@@ -1,5 +1,6 @@
 "redo the second eye"
 "this was the init"
+"redo the first part of the mouth"
 "this will be the other eye"
 "mouth part one"
 "mout part two"
